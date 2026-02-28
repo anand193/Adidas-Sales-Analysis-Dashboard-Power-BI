@@ -69,4 +69,4 @@ Data was cleaned and transformed using Power Query before visualization.
 ---
 
 ## 📷 Dashboard Preview
-(Add your dashboard screenshot here)
+[(Add your dashboard screenshot here)](https://github.com/anand193/Adidas-Sales-Analysis-Dashboard-Power-BI/blob/main/Imagesdashboard_preview.png)
